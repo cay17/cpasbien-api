@@ -1,3 +1,3 @@
 module.exports = {
-  DOMAIN: 'http://www.cpasbien.cm'
+  DOMAIN: 'http://www.cpasbien.ac'
 }
